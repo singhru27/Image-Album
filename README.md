@@ -13,7 +13,7 @@ This project is complete
 
 #### Example:   
 
-!(screenshots/Home.png)
+![ScreenShot](https://raw.github.com/singhru27/Image-Album/main/screenshots/Home.png)
 
 ## Installation and Setup Instructions
 

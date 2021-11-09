@@ -13,7 +13,7 @@ This project is complete
 
 #### Example:   
 
-!/screenshots/Home.png
+!screenshots/Home.png
 
 ## Installation and Setup Instructions
 

@@ -1,7 +1,5 @@
 ## Project Name & Pitch
 
-Image Gallery:
-
 A simple sample image gallery for showcasing an artist's portfolio. Build using HTML, CSS, and Bootstrap.
 
 ## Project Status
